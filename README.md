@@ -2,7 +2,7 @@
 I am Sakib Mahmud, currently working as a Research Assistant at Qatar University (QU) and Hamad Medical Corporation (HMC). My field of research primarily revolves around the applications of Artificial Intelligence (AI) in the HealthCare sector. We save lives through AI here @QU and @HMC.
 
 ### Notable Publications
-I have currently 14 publications in peer-reviewed journals and 1 publication in conference procedeeings. Some are provided below:  
+Currently I have 14 publications in peer-reviewed journals and 1 publication in conference procedeeings. Some are as follows: 
 [NABNet](https://www.sciencedirect.com/science/article/abs/pii/S1746809422007017?via%3Dihub) | [QUCoughScope](https://www.mdpi.com/2075-4418/12/4/920) | [HipXNet](https://ieeexplore.ieee.org/document/9770775/) | [PCovNet](https://www.sciencedirect.com/science/article/pii/S001048252200470X?via%3Dihub)
 
 ### Tools I Use
