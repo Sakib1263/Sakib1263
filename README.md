@@ -1,4 +1,5 @@
-### Salam 👋
+# <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> Salam  
+I am Sakib Mahmud, currently working as a Research Assistant at Qatar University.
 
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
