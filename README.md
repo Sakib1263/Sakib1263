@@ -10,7 +10,7 @@ Currently I have 14 publications in peer-reviewed journals and 1 publication in 
 [[3]](https://www.sciencedirect.com/science/article/pii/S0010482521007964?via%3Dihub) We also reliably detected and quantified the lung infections caused by COVID-19 from Chest X-Ray images (2021, CIBM Elsevier, IF: 6.698)!  
 [[4]](https://www.mdpi.com/2075-4418/11/5/893) And lung infections caused by COVID-19 from Chest CT scans (2021, Diagnostics MDPI, IF: 3.992).  
 [[5]](https://www.sciencedirect.com/science/article/pii/S001048252200470X?via%3Dihub) Can COVID-19 be reliably estimated from wearable data? We replied to that question in PCovNet (2022, CIBM Elsevier, IF: 6.698).  
-Please visit my Google Scholar and ResearchGate profiles for more details. 
+Please visit my [Google Scholar](https://scholar.google.com/citations?user=jFVg8REAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Sakib-Mahmud-7) profiles for more details. 
 
 ### Tools I Use
 <head>
@@ -48,7 +48,7 @@ Please visit my Google Scholar and ResearchGate profiles for more details.
     </a>
 </div>
 
-### Contact Me Here
+### Connect or Follow Me Here
 <div align="justify">
     <a href="https://sakib1263.github.io/Sakib1263/"><img src="website.png" width="30"/>
     </a><a href="mailto:sakib1263@hotmail.com"><img src="email.png" width="30"/>                                 
