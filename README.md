@@ -22,7 +22,7 @@ I have currently 14 publications in peer-reviewed journals and 1 publication in 
   <img alt="Embedded C" src="https://img.shields.io/badge/Embedded-3F51B5?style=flat-square&logo=c" />
   <img alt="Arduino" src="https://img.shields.io/static/v1?style=flat-square&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=" />
   <img alt="Esp32" src="https://img.shields.io/static/v1?style=flat-square&message=Espressif&color=E7352C&logo=Espressif&logoColor=FFFFFF&label=" />
-  <img alt="Google Sheets" src="https://img.shields.io/badge/MATLAB-1565C0?style=flat-square&message=MATLAB&color=orange&logo=matlab&logoColor=white" />
+  <img alt="Google Sheets" src="https://img.shields.io/static/v1?style=flat-square&message=Google+Sheets&color=34A853&logo=Google+Sheets&logoColor=FFFFFF&label=" />
   <img alt="Tableau" src="https://img.shields.io/static/v1?style=flat-square&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=" />
   <img alt="LabVIEW" src="https://img.shields.io/static/v1?style=flat-square&message=LabVIEW&color=222222&logo=LabVIEW&logoColor=FFDB00&label=" />
   <img alt="Eagle" src="https://img.shields.io/static/v1?style=flat-square&message=Eagle&color=0072EF&logo=Eagle&logoColor=FFFFFF&label=" />
