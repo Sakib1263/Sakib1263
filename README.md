@@ -2,8 +2,13 @@
 I am Sakib Mahmud, currently working as a Research Assistant at Qatar University (QU) and Hamad Medical Corporation (HMC). My field of research primarily revolves around the applications of Artificial Intelligence (AI) in the HealthCare sector. We save lives through AI here @QU and @HMC.
 
 ### Notable Publications
-Currently I have 14 publications in peer-reviewed journals and 1 publication in conference procedeeings. Some are as follows: 
-[NABNet](https://www.sciencedirect.com/science/article/abs/pii/S1746809422007017?via%3Dihub) | [QUCoughScope](https://www.mdpi.com/2075-4418/12/4/920) | [HipXNet](https://ieeexplore.ieee.org/document/9770775/) | [PCovNet](https://www.sciencedirect.com/science/article/pii/S001048252200470X?via%3Dihub)
+Currently I have 14 publications in peer-reviewed journals and 1 publication in conference procedeeings. Notable mentions:  
+[[1]](https://www.sciencedirect.com/science/article/abs/pii/S1746809422007017?via%3Dihub) Here we estimated continuous ABP waveforms from PPG and ECG signals using our proposed NABNet (2023, BSPC Elsevier, IF: 5.076).  
+[[2]](https://www.mdpi.com/2075-4418/12/4/920) Our proposed QUCoughtScope is able to reliably detect COVID-19 from cough and breath sounds (2022, Diagnostics MDPI, IF: 3.992)!  
+[[3]](https://www.sciencedirect.com/science/article/pii/S0010482521007964?via%3Dihub) We also reliably detected and quantified the lung infections caused by COVID-19 from Chest X-Ray images (2021, CIBM Elsevier, IF: 6.698)!  
+[[4]](https://www.mdpi.com/2075-4418/11/5/893) And lung infections caused by COVID-19 from Chest CT scans (2021, Diagnostics MDPI, IF: 3.992).  
+[[5]](https://www.sciencedirect.com/science/article/pii/S001048252200470X?via%3Dihub) Can COVID-19 be reliably estimated from wearable data? We replied to that question in PCovNet (2022, CIBM Elsevier, IF: 6.698).  
+Please visit my Google Scholar and ResearchGate profiles for more details.
 
 ### Tools I Use
 <head>
