@@ -1,5 +1,5 @@
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> Salam  
-I am Sakib Mahmud, currently working as a Research Assistant at Qatar University (QU) and Hamad Medical Corporation (HMC). My field of research primarily revolves around the applications of Artificial Intelligence (AI) in the HealthCare sector. We save lives through AI here @QU and @HMC.
+I am Sakib Mahmud, currently working as a Research Assistant at Qatar University (QU) and Hamad Medical Corporation (HMC). My field of research primarily revolves around the applications of Artificial Intelligence (AI) in the HealthCare sector.
 
 ### Notable Publications
 Currently I have 14 publications in peer-reviewed journals and 1 publication in conference procedeeings. Notable mentions:  
