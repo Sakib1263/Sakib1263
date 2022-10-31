@@ -17,7 +17,7 @@ Please visit my Google Scholar and ResearchGate profiles for more details.
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<div align="justify">
+<div align="left">
   <img alt="C" src="https://img.shields.io/static/v1?style=flat-square&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" />
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-1565C0?style=flat-square&message=MATLAB&color=orange&logo=matlab&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-1565C0?style=flat-square&logo=python&logoColor=white" />
@@ -39,7 +39,7 @@ Please visit my Google Scholar and ResearchGate profiles for more details.
 </div> 
 
 ### Current GitHub Stats
-<div align="justify">
+<div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="48%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Sakib1263&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
     </a>
