@@ -1,5 +1,7 @@
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> Salam  
+<div align="justify">
 I am Sakib Mahmud, currently working as a Research Assistant at Qatar University (QU) and Hamad Medical Corporation (HMC). My field of research primarily revolves around the applications of Artificial Intelligence (AI) in the HealthCare sector.
+</div> 
 
 ### Notable Publications
 Currently I have 14 publications in peer-reviewed journals and 1 publication in conference procedeeings. Notable mentions:  
@@ -8,14 +10,14 @@ Currently I have 14 publications in peer-reviewed journals and 1 publication in 
 [[3]](https://www.sciencedirect.com/science/article/pii/S0010482521007964?via%3Dihub) We also reliably detected and quantified the lung infections caused by COVID-19 from Chest X-Ray images (2021, CIBM Elsevier, IF: 6.698)!  
 [[4]](https://www.mdpi.com/2075-4418/11/5/893) And lung infections caused by COVID-19 from Chest CT scans (2021, Diagnostics MDPI, IF: 3.992).  
 [[5]](https://www.sciencedirect.com/science/article/pii/S001048252200470X?via%3Dihub) Can COVID-19 be reliably estimated from wearable data? We replied to that question in PCovNet (2022, CIBM Elsevier, IF: 6.698).  
-Please visit my Google Scholar and ResearchGate profiles for more details.
+Please visit my Google Scholar and ResearchGate profiles for more details. 
 
 ### Tools I Use
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<p>
+<div align="justify">
   <img alt="C" src="https://img.shields.io/static/v1?style=flat-square&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" />
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-1565C0?style=flat-square&message=MATLAB&color=orange&logo=matlab&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-1565C0?style=flat-square&logo=python&logoColor=white" />
@@ -34,10 +36,10 @@ Please visit my Google Scholar and ResearchGate profiles for more details.
   <img alt="Fusion360" src="https://img.shields.io/badge/Fusion360-1565C0?style=flat-square&message=Fusion360&color=red&logo=fusion360&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
- </p>
+</div> 
 
 ### Current GitHub Stats
-<div>
+<div align="justify">
     <a href="https://github-readme-stats.vercel.app">
         <img width="48%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Sakib1263&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
     </a>
