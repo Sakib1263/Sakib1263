@@ -5,19 +5,30 @@ I am Sakib Mahmud, currently working as a Research Assistant at Qatar University
 I have currently 14 publications in peer-reviewed journals and 1 publication in conference procedeeings. Some are provided below:  
 [NABNet](https://www.sciencedirect.com/science/article/abs/pii/S1746809422007017?via%3Dihub) | [QUCoughScope](https://www.mdpi.com/2075-4418/12/4/920) | [HipXNet](https://ieeexplore.ieee.org/document/9770775/) | [PCovNet](https://www.sciencedirect.com/science/article/pii/S001048252200470X?via%3Dihub)
 
-### Things I Code With
+### Tools I Use
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-1565C0?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-1565C0?style=for-the-badge&message=MATLAB&color=orange&logo=matlab&logoColor=white" /> 
-  <img alt="Embedded C" src="https://img.shields.io/badge/Embedded-3F51B5?style=for-the-badge&logo=c" />
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-F57C00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-C62828?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/static/v1?style=flat-square&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-1565C0?style=flat-square&message=MATLAB&color=orange&logo=matlab&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1565C0?style=flat-square&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/static/v1?style=flat-square&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-F57C00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-C62828?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-1565C0?style=flat-square&message=PyCharm&color=black&logo=PyCharm&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" />
+  <img alt="Embedded C" src="https://img.shields.io/badge/Embedded-3F51B5?style=flat-square&logo=c" />
+  <img alt="Arduino" src="https://img.shields.io/static/v1?style=flat-square&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=" />
+  <img alt="Esp32" src="https://img.shields.io/static/v1?style=flat-square&message=Espressif&color=E7352C&logo=Espressif&logoColor=FFFFFF&label=" />
+  <img alt="Google Sheets" src="https://img.shields.io/badge/MATLAB-1565C0?style=flat-square&message=MATLAB&color=orange&logo=matlab&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/static/v1?style=flat-square&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=" />
+  <img alt="LabVIEW" src="https://img.shields.io/static/v1?style=flat-square&message=LabVIEW&color=222222&logo=LabVIEW&logoColor=FFDB00&label=" />
+  <img alt="Eagle" src="https://img.shields.io/static/v1?style=flat-square&message=Eagle&color=0072EF&logo=Eagle&logoColor=FFFFFF&label=" />
+  <img alt="Fusion360" src="https://img.shields.io/badge/Fusion360-1565C0?style=flat-square&message=Fusion360&color=red&logo=fusion360&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
  </p>
 
 ### Current GitHub Stats
