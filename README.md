@@ -3,7 +3,7 @@
 I am Sakib Mahmud, currently working as a Research Assistant at Qatar University (QU) and Hamad Medical Corporation (HMC). My field of research primarily revolves around the applications of Artificial Intelligence (AI) in the HealthCare sector.
 </div> 
 
-### Notable Publications
+## Notable Publications
 Currently I have 14 publications in peer-reviewed journals and 1 publication in conference procedeeings. Notable mentions:  
 [[1]](https://www.sciencedirect.com/science/article/abs/pii/S1746809422007017?via%3Dihub) Here we estimated continuous ABP waveforms from PPG and ECG signals using our proposed NABNet (2023, BSPC Elsevier, IF: 5.076).  
 [[2]](https://www.mdpi.com/2075-4418/12/4/920) Our proposed QUCoughtScope is able to reliably detect COVID-19 from cough and breath sounds (2022, Diagnostics MDPI, IF: 3.992)!  
@@ -12,7 +12,7 @@ Currently I have 14 publications in peer-reviewed journals and 1 publication in 
 [[5]](https://www.sciencedirect.com/science/article/pii/S001048252200470X?via%3Dihub) Can COVID-19 be reliably estimated from wearable data? We replied to that question in PCovNet (2022, CIBM Elsevier, IF: 6.698).  
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=jFVg8REAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Sakib-Mahmud-7) profiles for more details. 
 
-### Tools I Use
+## Tools I Use
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
@@ -38,7 +38,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=jFVg8
   <img alt="GitHub" src="https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
 </div> 
 
-### Current GitHub Stats
+## Current GitHub Stats
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="48%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Sakib1263&custom_title=Sakib's+GitHub+Stats&hide_border=true&show_icons=true&theme=vision-friendly-dark"/>
@@ -48,7 +48,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=jFVg8
     </a>
 </div>
 
-### Connect or Follow Me Here
+## Connect or Follow Me Here
 <div align="justify">
     <a href="https://sakib1263.github.io/Sakib1263/"><img src="website.png" width="30"/>
     </a><a href="mailto:sakib1263@hotmail.com"><img src="email.png" width="30"/>                                 
