@@ -1,7 +1,6 @@
 ### Salam 👋
 
-[![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakib1263)](https://github.com/anuraghazra/github-readme-stats)
-![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakib1263&count_private=true)
 
 <!--
 **Sakib1263/Sakib1263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
