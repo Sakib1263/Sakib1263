@@ -41,10 +41,10 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=jFVg8
 ### Current GitHub Stats
 <div>
     <a href="https://github-readme-stats.vercel.app">
-        <img width="48%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Sakib1263&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
+        <img width="48%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Sakib1263&custom_title=Sakib's+GitHub+Stats&hide_border=true&show_icons=true&theme=vision-friendly-dark"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="48%" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Sakib1263&theme=vision-friendly-dark&hide_border=true"/>
+        <img width="48%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakib1263&hide_border=true&theme=vision-friendly-dark"/>
     </a>
 </div>
 
