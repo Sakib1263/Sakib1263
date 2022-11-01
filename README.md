@@ -49,7 +49,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=jFVg8
 </div>
 
 ## Connect or Follow Me Here
-<div align="justify">
+<div align="left">
     <a href="https://sakib1263.github.io/Sakib1263/"><img src="website.png" width="30"/>
     </a><a href="mailto:sakib1263@hotmail.com"><img src="email.png" width="30"/>                                 
     </a><a href="https://www.linkedin.com/in/sm1512633/"><img src="linkedin.png" width="30"/> 
