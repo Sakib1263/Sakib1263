@@ -4,7 +4,7 @@ I am Sakib Mahmud, currently working as a Research Assistant at Qatar University
 </div> 
 
 ## Notable Publications
-Currently I have 14 publications in peer-reviewed journals and 1 publication in conference procedeeings. Notable mentions:  
+Currently I have 15 publications in peer-reviewed journals and 1 publication in conference procedeeings. Notable mentions:  
 [[1]](https://www.sciencedirect.com/science/article/abs/pii/S1746809422007017?via%3Dihub) Here we estimated continuous ABP waveforms from PPG and ECG signals using our proposed NABNet (2023, BSPC Elsevier, IF: 5.076).  
 [[2]](https://www.mdpi.com/2075-4418/12/4/920) Our proposed QUCoughtScope is able to reliably detect COVID-19 from cough and breath sounds (2022, Diagnostics MDPI, IF: 3.992)!  
 [[3]](https://www.sciencedirect.com/science/article/pii/S0010482521007964?via%3Dihub) We also reliably detected and quantified the lung infections caused by COVID-19 from Chest X-Ray images (2021, CIBM Elsevier, IF: 6.698)!  
