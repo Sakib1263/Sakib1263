@@ -4,9 +4,9 @@ I am Sakib Mahmud, currently working as a Research Assistant at Qatar University
 </div> 
 
 ## Notable Publications
-Currently I have 16 publications in peer-reviewed journals and 3 publications in conference procedeeings. Notable mentions:  
+Currently I have 18 publications in peer-reviewed journals and 3 publications in conference procedeeings. Notable mentions:  
 * Our proposed NABNet **[[1]](https://www.sciencedirect.com/science/article/abs/pii/S1746809422007017?via%3Dihub)** can continuously reconstruct ABP waveforms from PPG and ECG signals (2023, BSPC Elsevier, IF: 5.076), inspired by our pioneering study PPG2ABP first appeared during 2020 **[[2]](https://www.mdpi.com/2306-5354/9/11/692)**.   
-* Our proposed QUCoughtScope **[[3]](https://www.mdpi.com/2075-4418/12/4/920)** is able to reliably detect COVID-19 from cough and breath sounds (2022, Diagnostics MDPI, IF: 3.992).
+* Our proposed QUCoughScope **[[3]](https://www.mdpi.com/2075-4418/12/4/920)** is able to reliably detect COVID-19 from cough and breath sounds (2022, Diagnostics MDPI, IF: 3.992).
 * We also reliably detected and quantified the lung infections caused by COVID-19 from Chest X-Ray images (2021, CIBM Elsevier, IF: 6.698) **[[4]](https://www.sciencedirect.com/science/article/pii/S0010482521007964?via%3Dihub)** and from Chest CT scans (2021, Diagnostics MDPI, IF: 3.992) **[[5]](https://www.mdpi.com/2075-4418/11/5/893)**.  
 * Can COVID-19 be reliably estimated from wearable data? We replied to that question in PCovNet **[[6]](https://www.sciencedirect.com/science/article/pii/S001048252200470X?via%3Dihub)** (2022, CIBM Elsevier, IF: 6.698).  
 * Our team in Qatar University (QU) developed electronic **[[7]](https://www.mdpi.com/1424-8220/22/19/7599)** (2022, Sensors MDPI, IF: 3.847) and optoelectronic **[[8]](http://dx.doi.org/10.1016/j.sna.2022.114092)** (2022, JSNA:Physical Elsevier, IF: 4.291) sensor based smart insoles for real-time plantar pressure and temperature data acquisition for home monitoring of patients with foot compliciations such as Diabetic Neuropathy.  
