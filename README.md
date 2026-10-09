@@ -1,10 +1,10 @@
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> Salam  
 <div align="justify">
-I am Sakib Mahmud, currently working as a Research Assistant at Qatar University (QU) and Hamad Medical Corporation (HMC). My research field primarily revolves around Artificial Intelligence (AI) applications in the HealthCare sector.
+I am Sakib Mahmud, currently working as a Research Associate at Qatar University (QU). My primary research field is HealthCare AI, Biomedical Engineering.
 </div> 
 
 ## Notable Publications
-I have 43 publications in peer-reviewed journals and 3 in conference proceedings. Notable mentions:  
+I have 57 publications in peer-reviewed journals and 3 in conference proceedings. Notable mentions:  
 * Our proposed NABNet **[[1]](https://www.sciencedirect.com/science/article/abs/pii/S1746809422007017?via%3Dihub)** can continuously reconstruct ABP waveforms from PPG and ECG signals (2023, BSPC Elsevier, IF: 5.076), inspired by our pioneering study PPG2ABP first appeared during 2020 **[[2]](https://www.mdpi.com/2306-5354/9/11/692)**.   
 * Our proposed QUCoughScope **[[3]](https://www.mdpi.com/2075-4418/12/4/920)** is able to reliably detect COVID-19 from cough and breath sounds (2022, Diagnostics MDPI, IF: 3.992).
 * We also reliably detected and quantified the lung infections caused by COVID-19 from Chest X-Ray images (2021, CIBM Elsevier, IF: 6.698) **[[4]](https://www.sciencedirect.com/science/article/pii/S0010482521007964?via%3Dihub)** and from Chest CT scans (2021, Diagnostics MDPI, IF: 3.992) **[[5]](https://www.mdpi.com/2075-4418/11/5/893)**.  
