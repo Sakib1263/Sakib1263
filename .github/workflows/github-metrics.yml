@@ -22,7 +22,8 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories
           config_timezone: Asia/Qatar
-          config_display: columns
+          config_display: large
+          config_padding: 0, 200
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
