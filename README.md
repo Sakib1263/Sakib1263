@@ -53,7 +53,7 @@ Please visit my **[Google Scholar](https://scholar.google.com/citations?user=jFV
 <div align="left">
     <a href="https://sakib1263.github.io/Sakib1263/"><img src="website.png" width="30"/>
     </a><a href="mailto:sakib1263@hotmail.com"><img src="email.png" width="30"/>                                 
-    </a><a href="https://www.linkedin.com/in/sm1512633/"><img src="linkedin.png" width="30"/> 
+    </a><a href="https://www.linkedin.com/in/sakib1263/"><img src="linkedin.png" width="30"/> 
     </a><a href="https://scholar.google.com/citations?user=jFVg8REAAAAJ&hl=en"><img src="gs.png" width="30"/> 
     </a><a href="https://www.researchgate.net/profile/Sakib-Mahmud-7"><img src="rg.png" width="30"/> </a>                                      
 </div> 
