@@ -1,0 +1,32 @@
+name: Update GitHub profile metrics
+
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate and commit profile metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Sakib1263
+          filename: github-metrics.svg
+          output_action: commit
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories
+          config_timezone: Asia/Qatar
+          config_display: columns
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          retries: 2
+          retries_delay: 10
