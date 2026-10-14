@@ -21,7 +21,7 @@
 
 ---
 
-**Assalamu alaikum, and welcome.** I am a bioengineering researcher with a BSc (Hons.) and MSc in Electrical Engineering from Qatar University. My work brings together **medical image computing, physiological signal processing, wearable sensing, biospectroscopy, and computational biomechanics**.
+**Salam, and welcome.** I am a bioengineering researcher with a BSc (Hons.) and MSc in Electrical Engineering from Qatar University. My work brings together **medical image computing, physiological signal processing, wearable sensing, biospectroscopy, and computational biomechanics**.
 
 I develop and evaluate computational methods for heterogeneous biomedical data, with particular interests in **multimodal learning, foundation-model adaptation, domain generalization, and rigorous validation**. My research spans data and experimental pipeline development, model design, clinical collaborations, and open research dissemination.
 
