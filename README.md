@@ -140,6 +140,7 @@ My public repositories include implementations accompanying peer-reviewed studie
 |:---|:---|
 | [COVID-QU-Ex](https://www.kaggle.com/datasets/anasmohammedtahir/covidqu) | Chest X-rays with lung annotations and an infection-segmentation subset for imaging research. |
 | [Aseptic Loose Hip Implant X-Ray Database](https://www.kaggle.com/datasets/tawsifurrahman/aseptic-loose-hip-implant-xray-database) | Hip-implant radiographs supporting loosening-assessment studies. |
+| [Multi-Instrument SERS Dataset](https://zenodo.org/records/23372983) | 29,545 SERS spectra from five instruments across 20 analyte classes; data files accessible by request‎. |
 
 ## Technical toolkit
 
