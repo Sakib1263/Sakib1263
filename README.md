@@ -11,7 +11,7 @@
   <a href="https://www.scopus.com/authid/detail.uri?authorId=57211999810">Scopus</a> ·
   <a href="https://www.researchgate.net/profile/Sakib-Mahmud-7">ResearchGate</a> ·
   <a href="https://www.linkedin.com/in/sakib1263/">LinkedIn</a> ·
-  <a href="https://sakib1263.github.io/Sakib1263/">Website</a> ·
+  <a href="https://sakib1263.github.io/">Website</a> ·
   <a href="mailto:sakib.mahmud@qu.edu.qa">Email</a>
 </p>
 
