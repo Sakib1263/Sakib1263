@@ -11,7 +11,7 @@
   <a href="https://www.scopus.com/authid/detail.uri?authorId=57211999810">Scopus</a> ·
   <a href="https://www.researchgate.net/profile/Sakib-Mahmud-7">ResearchGate</a> ·
   <a href="https://www.linkedin.com/in/sakib1263/">LinkedIn</a> ·
-  <a href="https://sakib1263.github.io/">Website</a> ·
+  <a href="https://sakibmahmud.dev/">Website</a> ·
   <a href="mailto:sakib.mahmud@qu.edu.qa">Email</a>
 </p>
 
@@ -26,12 +26,12 @@
 I develop and evaluate computational methods for heterogeneous biomedical data, with particular interests in **multimodal learning, foundation-model adaptation, domain generalization, and rigorous validation**. My research spans data and experimental pipeline development, model design, clinical collaborations, and open research dissemination.
 
 <p align="center">
-  <a href="#research-focus">Research</a> &nbsp;·&nbsp;
-  <a href="#selected-publications">Publications</a> &nbsp;·&nbsp;
-  <a href="#research-software">Code</a> &nbsp;·&nbsp;
-  <a href="#open-datasets">Datasets</a> &nbsp;·&nbsp;
-  <a href="#github-activity">Activity</a> &nbsp;·&nbsp;
-  <a href="#contact-and-collaboration">Contact</a>
+  <a href="https://sakibmahmud.dev/research/">Research</a> &nbsp;·&nbsp;
+  <a href="https://sakibmahmud.dev/publications/">Publications</a> &nbsp;·&nbsp;
+  <a href="https://sakibmahmud.dev/software/#code-title">Code</a> &nbsp;·&nbsp;
+  <a href="https://sakibmahmud.dev/software/#datasets">Datasets</a> &nbsp;·&nbsp;
+  <a href="https://sakibmahmud.dev/cv/">CV</a> &nbsp;·&nbsp;
+  <a href="https://sakibmahmud.dev/#contact">Contact</a>
 </p>
 
 ## Research at a glance
@@ -176,7 +176,7 @@ I welcome discussions on **medical imaging, biomedical AI, physiological computi
 
 <p align="center">
   <a href="mailto:sakib.mahmud@qu.edu.qa">Academic email</a> ·
-  <a href="https://scholar.google.com/citations?user=jFVg8REAAAAJ">Publications</a> ·
-  <a href="https://github.com/Sakib1263?tab=repositories">Open-source research</a> ·
+  <a href="https://sakibmahmud.dev/publications/">Publications</a> ·
+  <a href="https://sakibmahmud.dev/software/">Open-source research</a> ·
   <a href="https://www.linkedin.com/in/sakib1263/">LinkedIn</a>
 </p>
